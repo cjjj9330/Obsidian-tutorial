@@ -12,5 +12,5 @@
     "format": "image/jpeg",
     "quality": 0.92
   },
-  "themeable": true
+  "themeable": false
 }

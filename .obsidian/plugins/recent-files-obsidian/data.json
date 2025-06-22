@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "插件设置说明",
-      "path": "示例/Charts演示/插件设置说明.md"
-    },
-    {
       "basename": "数据导入示例",
       "path": "示例/Charts演示/数据导入示例.md"
     },
@@ -13,8 +9,16 @@
       "path": "示例/Charts演示/实际应用场景.md"
     },
     {
+      "basename": "插件设置说明",
+      "path": "示例/Charts演示/插件设置说明.md"
+    },
+    {
       "basename": "基础图表示例",
       "path": "示例/Charts演示/基础图表示例.md"
+    },
+    {
+      "basename": "高级图表示例",
+      "path": "示例/Charts演示/高级图表示例.md"
     },
     {
       "basename": "README",
@@ -195,10 +199,6 @@
     {
       "basename": "Banners：添加横幅背景",
       "path": "Obsidian设置/Community plugins/Banners：添加横幅背景.md"
-    },
-    {
-      "basename": "Pandoc：导出工具",
-      "path": "Obsidian设置/Community plugins/Pandoc：导出工具.md"
     }
   ],
   "omittedPaths": [],
