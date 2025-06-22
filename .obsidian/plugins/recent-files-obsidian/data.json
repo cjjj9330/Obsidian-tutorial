@@ -5,12 +5,12 @@
       "path": "示例/Charts演示/数据导入示例.md"
     },
     {
-      "basename": "高级图表示例",
-      "path": "示例/Charts演示/高级图表示例.md"
-    },
-    {
       "basename": "插件设置说明",
       "path": "示例/Charts演示/插件设置说明.md"
+    },
+    {
+      "basename": "高级图表示例",
+      "path": "示例/Charts演示/高级图表示例.md"
     },
     {
       "basename": "实际应用场景",
