@@ -1,24 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "实际应用场景",
+      "path": "示例/Charts演示/实际应用场景.md"
+    },
+    {
       "basename": "数据导入示例",
       "path": "示例/Charts演示/数据导入示例.md"
     },
     {
-      "basename": "实际应用场景",
-      "path": "示例/Charts演示/实际应用场景.md"
+      "basename": "高级图表示例",
+      "path": "示例/Charts演示/高级图表示例.md"
     },
     {
       "basename": "插件设置说明",
       "path": "示例/Charts演示/插件设置说明.md"
     },
     {
-      "basename": "基础图表示例",
-      "path": "示例/Charts演示/基础图表示例.md"
+      "basename": "Easy Typing：规范化 + 打字辅助",
+      "path": "Obsidian设置/Community plugins/Easy Typing：规范化 + 打字辅助.md"
     },
     {
-      "basename": "高级图表示例",
-      "path": "示例/Charts演示/高级图表示例.md"
+      "basename": "Banners：添加横幅背景",
+      "path": "Obsidian设置/Community plugins/Banners：添加横幅背景.md"
+    },
+    {
+      "basename": "Meta Bind",
+      "path": "Obsidian设置/Community plugins/Meta Bind.md"
+    },
+    {
+      "basename": "Hider",
+      "path": "Obsidian设置/Community plugins/Hider.md"
+    },
+    {
+      "basename": "Remember cursor position：一定要装！",
+      "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
+    },
+    {
+      "basename": "Slash Commander",
+      "path": "Obsidian设置/Community plugins/Slash Commander.md"
+    },
+    {
+      "basename": "Image in Editor",
+      "path": "Obsidian设置/Community plugins/Image in Editor.md"
+    },
+    {
+      "basename": "Image Tookit",
+      "path": "Obsidian设置/Community plugins/Image Tookit.md"
+    },
+    {
+      "basename": "Image Auto Upload",
+      "path": "Obsidian设置/Community plugins/Image Auto Upload.md"
+    },
+    {
+      "basename": "RSS Feed",
+      "path": "Obsidian设置/Community plugins/RSS Feed.md"
+    },
+    {
+      "basename": "基础图表示例",
+      "path": "示例/Charts演示/基础图表示例.md"
     },
     {
       "basename": "README",
@@ -117,10 +157,6 @@
       "path": "Obsidian设置/Community plugins/Code Emitter：执行代码！.md"
     },
     {
-      "basename": "Easy Typing：规范化 + 打字辅助",
-      "path": "Obsidian设置/Community plugins/Easy Typing：规范化 + 打字辅助.md"
-    },
-    {
       "basename": "Excalidraw：手写笔记爱好者福音",
       "path": "Obsidian设置/Community plugins/Excalidraw：手写笔记爱好者福音.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "General",
       "path": "Obsidian设置/General.md"
-    },
-    {
-      "basename": "HotKeys",
-      "path": "Obsidian设置/HotKeys.md"
-    },
-    {
-      "basename": "YouTube",
-      "path": "Templates/YouTube.md"
-    },
-    {
-      "basename": "URL",
-      "path": "Templates/URL.md"
-    },
-    {
-      "basename": "Excel 2025-06-02 14.21.30.univer",
-      "path": "Excel/Excel 2025-06-02 14.21.30.univer.md"
-    },
-    {
-      "basename": "移动应用开发数据库",
-      "path": "示例/DB Folder演示/💼 项目任务数据库/移动应用开发数据库.md"
-    },
-    {
-      "basename": "Remember cursor position：一定要装！",
-      "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
-    },
-    {
-      "basename": "homepage",
-      "path": "示例/homepage.md"
-    },
-    {
-      "basename": "读书笔记模板",
-      "path": "示例/Quick Add演示/读书笔记模板.md"
-    },
-    {
-      "basename": "Banners：添加横幅背景",
-      "path": "Obsidian设置/Community plugins/Banners：添加横幅背景.md"
     }
   ],
   "omittedPaths": [],
