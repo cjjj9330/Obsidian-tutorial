@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Remember cursor position：一定要装！",
+      "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
+    },
+    {
       "basename": "数据导入示例",
       "path": "示例/Charts演示/数据导入示例.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Hider",
       "path": "Obsidian设置/Community plugins/Hider.md"
-    },
-    {
-      "basename": "Remember cursor position：一定要装！",
-      "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
     },
     {
       "basename": "Slash Commander",
@@ -93,48 +93,8 @@
       "path": "示例/Quick Add演示/待办事项快速添加.md"
     },
     {
-      "basename": "技能学习计划",
-      "path": "示例/Projects演示/5-生活管理项目/生活数据/技能学习计划.md"
-    },
-    {
-      "basename": "家居装修项目",
-      "path": "示例/Projects演示/5-生活管理项目/生活数据/家居装修项目.md"
-    },
-    {
-      "basename": "习惯养成",
-      "path": "示例/Projects演示/5-生活管理项目/生活数据/习惯养成.md"
-    },
-    {
-      "basename": "生活事务管理",
-      "path": "示例/Projects演示/5-生活管理项目/生活事务管理.md"
-    },
-    {
-      "basename": "团队项目总览",
-      "path": "示例/Projects演示/2-团队项目管理/团队项目总览.md"
-    },
-    {
-      "basename": "移动应用开发项目",
-      "path": "示例/Projects演示/2-团队项目管理/项目数据/移动应用开发项目.md"
-    },
-    {
-      "basename": "内容发布计划",
-      "path": "示例/Projects演示/3-内容创作管理/内容发布计划.md"
-    },
-    {
-      "basename": "README",
-      "path": "示例/Projects演示/README.md"
-    },
-    {
       "basename": "目录",
       "path": "Templates/目录.md"
-    },
-    {
-      "basename": "个人任务管理看板",
-      "path": "示例/Projects演示/1-个人任务管理项目/个人任务管理看板.md"
-    },
-    {
-      "basename": "健身计划执行",
-      "path": "示例/Projects演示/1-个人任务管理项目/任务数据/健身计划执行.md"
     },
     {
       "basename": "QuickAdd：自动化工具",
