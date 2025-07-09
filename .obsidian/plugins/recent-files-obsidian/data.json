@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Remember cursor position：一定要装！",
-      "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
-    },
-    {
       "basename": "数据导入示例",
       "path": "示例/Charts演示/数据导入示例.md"
+    },
+    {
+      "basename": "测试数据2",
+      "path": "示例/Charts演示/测试数据2.md"
+    },
+    {
+      "basename": "测试数据3",
+      "path": "示例/Charts演示/测试数据3.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Obsidian设置/Community plugins/Tasks.md"
+    },
+    {
+      "basename": "Image Tookit",
+      "path": "Obsidian设置/Community plugins/Image Tookit.md"
+    },
+    {
+      "basename": "RSS Feed",
+      "path": "Obsidian设置/Community plugins/RSS Feed.md"
+    },
+    {
+      "basename": "Hider",
+      "path": "Obsidian设置/Community plugins/Hider.md"
+    },
+    {
+      "basename": "Remember cursor position：一定要装！",
+      "path": "Obsidian设置/Community plugins/Remember cursor position：一定要装！.md"
     },
     {
       "basename": "插件设置说明",
@@ -33,10 +57,6 @@
       "path": "Obsidian设置/Community plugins/Meta Bind.md"
     },
     {
-      "basename": "Hider",
-      "path": "Obsidian设置/Community plugins/Hider.md"
-    },
-    {
       "basename": "Slash Commander",
       "path": "Obsidian设置/Community plugins/Slash Commander.md"
     },
@@ -45,16 +65,8 @@
       "path": "Obsidian设置/Community plugins/Image in Editor.md"
     },
     {
-      "basename": "Image Tookit",
-      "path": "Obsidian设置/Community plugins/Image Tookit.md"
-    },
-    {
       "basename": "Image Auto Upload",
       "path": "Obsidian设置/Community plugins/Image Auto Upload.md"
-    },
-    {
-      "basename": "RSS Feed",
-      "path": "Obsidian设置/Community plugins/RSS Feed.md"
     },
     {
       "basename": "基础图表示例",
