@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Image Tookit",
+      "path": "Obsidian设置/Community plugins/Image Tookit.md"
+    },
+    {
       "basename": "数据导入示例",
       "path": "示例/Charts演示/数据导入示例.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Tasks",
       "path": "Obsidian设置/Community plugins/Tasks.md"
-    },
-    {
-      "basename": "Image Tookit",
-      "path": "Obsidian设置/Community plugins/Image Tookit.md"
     },
     {
       "basename": "RSS Feed",
